@@ -1,7 +1,7 @@
 ################################ 
 # WinterYetiy 
 # Python-SystemCheckPC-v30.py
-# Date: March 21, 2024
+# Date: July 3, 2024
 # Version: 3.0
 # Description: A python program that checks the user's computer for basic statistics on CPU usage,
 # memory, disk usage and battery power. The program looks for CPU temp as well, but the script does
